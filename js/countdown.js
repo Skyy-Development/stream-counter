@@ -1,4 +1,4 @@
-var comingdate = new Date('Oct 19, 2023 00:00:00');
+var comingdate = new Date('Oct 20, 2023 00:00:01');
 
 var d = document.getElementById('d');
 var h = document.getElementById('h');
